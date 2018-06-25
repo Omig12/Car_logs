@@ -1,5 +1,4 @@
-BlueDriver Data Log
-Dec-17-2017 8:41:16 PM
+BlueDriver Data Log Dec-17-2017 8:41:16 PM
 
 Time_s, Short-Term-Fuel-Trim-Bank-1_%, Calculated-Engine-Load-Value_%, Vehicle-Speed_km/h, Intake-Air-Temperature_C, Engine-Coolant-Temperature_C, Long-Term-Fuel-Trim-Bank-1_%, Intake-Manifold-Absolute-Pressure_kPa, Engine-RPM_rpm, Absolute-Throttle-Position_%, Timing-Advance-for-#1-cylinder_°
 0.0, *, *, *, *, *, *, *, *, *, *
