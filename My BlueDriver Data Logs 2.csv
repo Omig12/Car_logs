@@ -1,5 +1,6 @@
 BlueDriver Data Log
-Dec 17, 2017 8:41:16 PM
+Dec-17-2017 8:41:16 PM
+
 Time (s), Short Term Fuel Trim Bank 1 (%), Calculated Engine Load Value (%), Vehicle Speed (km/h), Intake Air Temperature (°C), Engine Coolant Temperature (°C), Long Term Fuel Trim Bank 1 (%), Intake Manifold Absolute Pressure (kPa), Engine RPM (rpm), Absolute Throttle Position (%), Timing Advance for #1 cylinder (°)
 0.0, *, *, *, *, *, *, *, *, *, *
 1.2, *, 67.5, 62, 28, 87, -5.2, 83.3, *, *, *
